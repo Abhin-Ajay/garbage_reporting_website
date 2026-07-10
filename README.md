@@ -4,7 +4,7 @@ Next.js app: Google login restricted to `@nitc.ac.in`, bin selection, submission
 with confirmation, per-user status tracking, and an admin panel to edit remarks,
 add bins, and mark bins as collected.
 
-## What you need to do (about 10-15 minutes)
+## What you need to do 
 
 ### 1. Create a Google OAuth Client
 1. Go to https://console.cloud.google.com/apis/credentials
@@ -25,7 +25,7 @@ git init
 git add .
 git commit -m "garbage_reporting_website"
 git branch -M main
-git remote add origin https://github.com/Abhin-Ajay/garbage_reporting_website.git
+git remote add origin https://github.com/{your github username}/garbage_reporting_website.git
 git push -u origin main
 ```
 
