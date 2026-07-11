@@ -1,11 +1,10 @@
 # Website for reporting the bin for garbage Collector Bot
 
-Next.js app: Google login restricted to `@nitc.ac.in`, bin selection, submission
+Next.js app: Google login restricted to `@nitc.ac.in`(only my collage), bin selection, submission
 with confirmation, per-user status tracking, and an admin panel to edit remarks,
 add bins, and mark bins as collected.
 
-## What you need to do 
-
+## Step by step procedure
 ### 1. Create a Google OAuth Client
 1. Go to https://console.cloud.google.com/apis/credentials
 2. Create a project (any name).
