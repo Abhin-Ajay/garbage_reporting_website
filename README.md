@@ -1,4 +1,4 @@
-# Garbage Collector Bot (NITC)
+# Website for reporting the bin for garbage Collector Bot
 
 Next.js app: Google login restricted to `@nitc.ac.in`, bin selection, submission
 with confirmation, per-user status tracking, and an admin panel to edit remarks,
